@@ -1,0 +1,20 @@
+.pagination {
+  width: 100%;
+}
+.pagination ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+  list-style: none;
+}
+.pagination ul li:hover {
+  font-weight: 800;
+  color: blue;
+  cursor: pointer;
+}
+.active {
+  font-weight: 800;
+  font-size: 1.5rem;
+}

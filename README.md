@@ -1,8 +1,29 @@
-# React + Vite
+# Work in progress...
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# PokemonTCG
 
-Currently, two official plugins are available:
+This is the Project for Front-End Developer Education, which includes HTML, SCSS, JavaScript, React, MOBX.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Application is developed using
+
+- [React](https://react.dev/)
+- [Scaledrone](https://www.scaledrone.com/)
+- [SASS](https://sass-lang.com/)
+
+## Getting started
+
+Install Node v16.14.0+.
+
+1. npm install
+2. npm run dev
+
+## Features
+
+- [x] List of pokemon cards with pagination
+- [x] Search for pokemon
+- [x] Pokemon page
+- [x] Custom 3D Card Effect
+- [ ] Search by type
+- [ ] Favorite cards
+- [ ] Aditional styling
+

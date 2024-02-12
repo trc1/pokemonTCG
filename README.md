@@ -2,7 +2,7 @@
 
 # PokemonTCG
 
-This is the Project for Front-End Developer Education, which includes HTML, SCSS, JavaScript, React, MOBX.
+This is the Project for Front-End Developer Education, which includes HTML, CSS, JavaScript, React, MOBX.
 
 ## Application is developed using
 

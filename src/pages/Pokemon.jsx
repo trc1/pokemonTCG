@@ -1,7 +1,7 @@
 import { observer } from "mobx-react";
 import React from "react";
 import { CardComponent } from "../components/CardComponents";
-import { Navigate } from "react-router-dom";
+import { Navigate, Link } from "react-router-dom";
 import "./Pokemon.css";
 
 import store from "../store/store";
@@ -50,6 +50,15 @@ function Pokemon() {
         <a href={selectedPokemon.cardmarket?.url} target="_blank">
           Price
         </a>
+                <Link to="/">
+          <button
+            onClick={() => {
+              store.setSelectedPokemon(null);
+            }}
+          >
+            Go to home
+          </button>
+        </Link>
       </div>
     </div>
   );

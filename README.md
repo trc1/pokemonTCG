@@ -25,5 +25,5 @@ Install Node v16.14.0+.
 - [x] Custom 3D Card Effect
 - [ ] Search by type
 - [ ] Favorite cards
-- [ ] Aditional styling
+- [ ] Aditional styling and responsive
 

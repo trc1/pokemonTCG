@@ -75,23 +75,5 @@ class Store {
 
 const store = new Store();
 
-/* pokemonApi.fetchPokemonList().then((pokemonList) => {
-  store.setPokemon(pokemonList);
-  store.setIsLoading(false);
-  console.log("Pokemon List:", pokemonList);
-});
-
-pokemonApi.fetchPokemonByType(store.pokemonTypeList).then((pokemonFireList) => {
-  console.log("Pokemon Fire List:", pokemonFireList);
-});
-
-pokemonApi.fetchPokemonDetails(store.selectedPokemon).then((pokemonDetails) => {
-  if (store.selectedPokemon !== null) {
-    store.setSelectedPokemon(pokemonDetails);
-    console.log("Pokemon Details:", pokemonDetails);
-  } else {
-    return;
-  }
-}); */
 
 export default store;

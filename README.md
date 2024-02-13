@@ -7,8 +7,6 @@ This is the Project for Front-End Developer Education, which includes HTML, CSS,
 ## Application is developed using
 
 - [React](https://react.dev/)
-- [Scaledrone](https://www.scaledrone.com/)
-- [SASS](https://sass-lang.com/)
 
 ## Getting started
 

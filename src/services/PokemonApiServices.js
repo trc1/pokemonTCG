@@ -32,7 +32,6 @@ class PokemonApiServices {
     return this.fetchData("/cards", queryParams);
   }
 
-  // Additional methods for creating, updating, and deleting resources can be added here.
 }
 
 export default PokemonApiServices;
